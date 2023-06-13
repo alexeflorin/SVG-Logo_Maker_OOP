@@ -1,0 +1,31 @@
+{
+  "name": "svg-logo_maker_oop",
+  "version": "1.0.0",
+  "description": "SVG-Logo_Maker_OOP",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexeflorin/SVG-Logo_Maker_OOP.git"
+  },
+  "keywords": [
+    "Logo",
+    "SVG",
+    "file"
+  ],
+  "author": "Florin Alexe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexeflorin/SVG-Logo_Maker_OOP/issues"
+  },
+  "homepage": "https://github.com/alexeflorin/SVG-Logo_Maker_OOP#readme",
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "jest": "^29.5.0"
+  }
+}
